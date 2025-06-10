@@ -1,4 +1,6 @@
 # Portland AI Engineers: Past-presentations
+These are recordes of the past presentations for [Portland AI Engineers](https://www.portlandai.engineer/) meetups
+---
 
 ## June 4, 2025
 
